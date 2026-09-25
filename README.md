@@ -7,3 +7,6 @@ Shahid
 
 # Learning
 Git and Github
+
+# Process
+current state learning upstream push
